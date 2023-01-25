@@ -76,26 +76,34 @@ button{
     all: unset;
     cursor: pointer;
     font-family: 'Open Sans', sans-serif;
+    padding: 10px 20px;
+    font-size: 20px;
+    color: rgb(45, 110, 128);
+    
 }
 
 button:active{
 
-    color: rgb(55, 103, 223);
+    color: rgb(253, 253, 253);
     font-weight: bold;
     
 }
 
 #surprise{
-    border: 1.5px solid rgb(39, 39, 39);
-    border-radius: 6px;
-    padding: 0 8px;
+    border: 1.5px solid rgb(45, 110, 128);
+    border-radius: 10px;
+    padding: 4px 8px;
+    font-weight: bold;
+    font-size: small;
+    background-color: #f4f1eb;
+    color: rgb(45, 110, 128);
 }
 
 #surprise:active{
-    border: 1.5px solid rgb(39, 39, 39);
-    border-radius: 6px;
-    padding: 0 8px;
-    background-color: rgb(61, 61, 61);
-    color: rgb(219, 219, 219);
+    background-color: rgba(45, 110, 128, 0.58);
+    color: rgb(255, 255, 255);
+    
 }
+
+
  
