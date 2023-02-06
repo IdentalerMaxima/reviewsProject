@@ -4,35 +4,35 @@ const reviews = [
         name: "Naray Koppany Titusz",
         role: "Leader of Goons",
         img: "res/k.jpg",
-        review: "Hardwork always pays off. Thats why instead of studying I bust the gym and play LoL. Biceps > Knowledge. My main enemy is Jenei, hnstly fck that guy. Fav quote: 'Oh mein gott, look at those baicups!'",
+        review: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur, asperiores cumque neque officia earum, ipsam quia est, nisi natus accusantium fuga esse. Dolorem pariatur recusandae non ipsum tempore nisi cumque.",
     },
     {
         id: 2,
         name: "Bako Erik Dominik",
         role: "UX Goon",
         img: "res/e.jpg",
-        review: "Darks Souls ftw, im gay. Weakass in da gym, I try to be as muscular and beautiful as Koppany, but im just sad and fat. Reddit is my soft porn. Yea sure lets go for a beer, oh wait I cant, gf u know. Where are you Dori? Bees.",
+        review: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae dolor perspiciatis suscipit magnam ipsam fugiat ex necessitatibus, quasi eos molestias laborum, in maxime.",
     },
     {
         id: 3,
         name: "Treszka Tamas",
         role: "Backend Goon",
         img: "res/t.jpg",
-        review: "Also a fat fuck but atleast im smarter than the rest. Why study usefull stuff when you can build a programming language hahah. Lets program in C bro. I love gay music, I have a band that makes your ear bleed, come to a concert!",
+        review: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos modi, tempore odio asperiores adipisci fuga! Cum, ea sequi placeat ipsam a harum quam!",
     },
     {
         id: 4,
         name: 'Balazs "Teddy" Daniel',
         role: "HR Goon",
         img: "res/d.jpg",
-        review: "Yea formalis nyelvek, fuck this. I love jenei targyak so much I will take them 30 times before I pass. Come TTKedd bro, dont study. Also im CEO of Bagoly. fml. Also im romanian, be carefull.",
+        review: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illo excepturi, corrupti, sit maxime, error hic fugiat aliquid saepe quos nemo exercitationem non vitae. Repellendus, labore? Reprehenderit unde maiores sapiente nesciunt odio dolores velit in.",
     },
     {
         id: 5,
         name: "Kiraly Peter",
         role: "Unit Tester Goon",
         img: "res/p.jpg",
-        review: "Cigarettes, coffee, sleep depravation and shots. All my body needs to function. I study nothing and sleep trough classes but I consume knowledge and understand shit better than all the other goons combined lol. Hungarian method and Bar-Hillel are my go-to-s. Im just built different baby.",
+        review: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos fugiat quisquam odit dolores aliquid inventore nam hic itaque harum dignissimos rerum, iure sunt laudantium laborum placeat ipsa! Blanditiis debitis ullam sit porro quaerat.",
     }
 ]
 
